@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello all, I am Abhinay Kalavakuri from IIT Bhilai. Here are the projects I have done, feel free to reach out on LinkedIn.<br>
+Hello all, I am Abhinay Kalavakuri from IIT Bhilai.Feel free to reach out on LinkedIn.<br>
 
 
 ## 🌐 Socials:
