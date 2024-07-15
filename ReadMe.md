@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist and AI/ML enthusiast with a strong drive to explore the world of data and its endless possibilities.</h3>
 
 <p align="center">
-  👨‍💻 All of my projects are available at <a href="https://github.com/abhinay12890?tab=repositories">https://github.com/abhinay12890?tab=repositories</a>
+  👨‍💻 All of my projects are available at <a href="https://github.com/abhinay12890?tab=repositories">Repositories</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
