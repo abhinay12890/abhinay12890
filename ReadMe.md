@@ -20,10 +20,10 @@ Some of my key projects:
 - **Profit-Prediction Pipeline (Internship @ Exposys Data Labs)** – Deep learning model outperformed traditional ML algorithms.  
 
 #### Data Analyst Projects
-- **Flipkart Customer Support Data Analysis** ([Link]) – Analyzed 85,907 records; performed EDA, feature engineering, and provided actionable insights for agent allocation, refunds, and marketing strategies.  
-- **Pizza Sales Analysis** ([Link]) – Used SQL to identify revenue drivers, popular items, and sales trends; delivered actionable business insights.  
-- **Cyclistic Bike-Share Analysis & Membership Strategy** ([Link]) – R-based analysis of bike usage patterns; designed visualizations for targeted membership conversion strategies.  
-- **Hard-Hat Detection** ([Link]) – Real-time edge detection system using Edge Impulse and Nicla Vision for workplace safety; adaptable to diverse environmental conditions.  
+- **Flipkart Customer Support Data Analysis** – Analyzed 85,907 records; performed EDA, feature engineering, and provided actionable insights for agent allocation, refunds, and marketing strategies.  
+- **Pizza Sales Analysis** – Used SQL to identify revenue drivers, popular items, and sales trends; delivered actionable business insights.  
+- **Cyclistic Bike-Share Analysis & Membership Strategy** – R-based analysis of bike usage patterns; designed visualizations for targeted membership conversion strategies.  
+- **Hard-Hat Detection** – Real-time edge detection system using Edge Impulse and Nicla Vision for workplace safety; adaptable to diverse environmental conditions.  
 
 ---
 
