@@ -68,4 +68,4 @@ Some of my key projects:
 
 ---
 
-🌱 I am constantly exploring **AI, ML, and data analysis** to solve **real-world problems**, collaborate on **impactful projects**, and deliver **actionable insights**.
+I am constantly exploring **AI, ML, and data analysis** to solve **real-world problems**, collaborate on **impactful projects**, and deliver **actionable insights**.
