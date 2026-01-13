@@ -17,14 +17,14 @@ Some of my key projects:
 - **Used Car Price Prediction** – Enhanced regression accuracy on 425K+ records, significantly reducing errors.  
 - **MovieLens RAG Recommendation** – Integrated embeddings, FAISS vector search, and LLMs for contextual recommendations.  
 - **Dog vs. Cat Classifier** – Fine-tuned ResNet50 achieving **97% accuracy**, deployed via Streamlit.  
-- **Profit-Prediction Pipeline (Internship @ Exposys Data Labs)** – Deep learning model outperformed traditional ML algorithms.  
+- **Profit-Prediction Pipeline (Internship @ Exposys Data Labs)** – Deep learning model outperformed traditional ML algorithms.
+- **Hard-Hat Detection** – Real-time edge detection system using Edge Impulse and Nicla Vision for workplace safety; adaptable to diverse environmental conditions.  
+
 
 #### Data Analyst Projects
 - **Flipkart Customer Support Data Analysis** – Analyzed 85,907 records; performed EDA, feature engineering, and provided actionable insights for agent allocation, refunds, and marketing strategies.  
 - **Pizza Sales Analysis** – Used SQL to identify revenue drivers, popular items, and sales trends; delivered actionable business insights.  
 - **Cyclistic Bike-Share Analysis & Membership Strategy** – R-based analysis of bike usage patterns; designed visualizations for targeted membership conversion strategies.  
-- **Hard-Hat Detection** – Real-time edge detection system using Edge Impulse and Nicla Vision for workplace safety; adaptable to diverse environmental conditions.  
-
 ---
 
 ### Connect with Me
