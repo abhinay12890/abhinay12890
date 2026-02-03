@@ -1,9 +1,9 @@
-# 👋 Hi, I’m Kalavakuri Abhinay
+<div align="center">
 
+# 👋 Hi, I’m Kalavakuri Abhinay
 ### Data Scientist | AI/ML & NLP | Predictive Analytics & Deployment-Ready ML Systems  
 🎓 IIT Bhilai · 🤖 Machine Learning · 📊 Data Analytics · 🚀 Production ML
-
----
+</div>
 
 ## 💫 About Me
 I’m **Kalavakuri Abhinay**, a **Data Scientist from IIT Bhilai** with hands-on experience as both a **Data Science Intern** and a **Data Analyst Intern**.
@@ -16,69 +16,48 @@ My work spans **large-scale tabular ML**, **NLP & RAG systems**, **computer visi
 
 ---
 
-## 🚀 Featured Projects (Selected Work)
+## 🚀 Featured Projects
 
 ### 🔹 [FactoryGuard AI – Predictive Maintenance](https://github.com/abhinay12890/factoryguard-ai)
-**NASA C-MAPSS Turbofan Dataset | ML Internship @Zaalima Development**
-- Built a **production-ready predictive maintenance system** to forecast component failure **24 hours in advance** using NASA turbofan sensor data.
-- Engineered **time-series features (lags, rolling stats, EMA)** and trained imbalance-aware models using **PR-AUC–driven evaluation and threshold tuning**.
-- Deployed a **low-latency Flask inference API (~1.4 ms warm)** with business-aligned risk categorization (LOW–CRITICAL).
+*NASA C-MAPSS Turbofan Dataset | ML Internship @ Zaalima Development*  
+- Predicted component failure **24h in advance**, achieving **PR-AUC ≈ 0.94** on imbalanced data.  
+- Deployed a **low-latency Flask inference API (~1.4 ms warm)** with business-aligned risk thresholds.
 
 ---
 
 ### 🔹 [Used Car Price Prediction](https://github.com/abhinay12890/Used_Car_Price_Prediction_Regression)
-- Developed an **end-to-end regression pipeline** on **425K+ used car records**.
-- Performed data preprocessing, feature engineering, and multi-model benchmarking.
-- Improved real-world price estimation accuracy for large-scale datasets.
+- Built an **end-to-end regression pipeline** on **425K+ records** with feature engineering and benchmarking.  
+- Reduced prediction error vs baseline using a **scalable, reproducible preprocessing workflow**.
 
 ---
 
 ### 🔹 [MovieLens RAG Recommendation System](https://github.com/abhinay12890/MovieLens-RAG-Recommendation-System)
-- Built a recommendation system using **Retrieval-Augmented Generation (RAG)**.
-- Integrated **embeddings, FAISS vector search, and LLMs**.
-- Enabled context-aware, personalized recommendations beyond collaborative filtering.
+- Implemented a **RAG-based recommender system** using embeddings and **FAISS vector search**.  
+- Improved contextual relevance compared to traditional collaborative filtering.
 
 ---
 
 ### 🔹 [Customer Churn Prediction](https://github.com/abhinay12890/Telco_Customer_Churn_Prediction)
-- Designed classification models to address customer retention problems.
-- Optimized for **recall and ROC-AUC** on imbalanced datasets using ensemble techniques.
-- Improved identification of high-risk churn customers for targeted business action.
+- Trained churn prediction models on imbalanced data with **recall- and ROC-AUC–focused evaluation**.  
+- Enabled targeted retention strategies by identifying high-risk customers.
 
 ---
 
 ### 🔹 [Hard-Hat Detection (Edge AI)](https://github.com/abhinay12890/Hard-HAT-Detection)
-- Built a real-time computer vision system for workplace safety monitoring.
-- Deployed the model on **Arduino Nicla Vision** using **Edge Impulse**.
-- Designed for robust inference across varying environmental conditions.
+- Developed a **real-time computer vision safety system** for helmet detection.  
+- Deployed on **Arduino Nicla Vision** using Edge Impulse for robust edge inference.
 
 ---
 
-## 📊 Data Analytics Experience (Internship & Projects)
+## 📊 Data Analytics Experience
 
-### 🔹 [Data Analyst Intern @Labmentix](https://github.com/abhinay12890/Data-Analyst-Internship)
-- Performed **EDA, KPI analysis, and feature-driven insights** on real-world business datasets.
-- Translated raw data into **actionable insights** for operations, marketing, and decision-making.
-- Built dashboards and analytical reports using **SQL, Python, and BI tools**.
+### 🔹 [Data Analyst Intern @ Labmentix](https://github.com/abhinay12890/Data-Analyst-Internship)
+- Conducted **EDA and KPI analysis** on real-world business datasets.  
+- Delivered **actionable insights** using SQL, Python, and BI tools.
 
 ### 🔹 Flipkart Customer Support Analysis
-- Analyzed **85,907 customer support records**.
-- Identified drivers of refunds, delays, and agent workload.
-- Delivered insights to optimize agent allocation and customer experience.
-
----
-
-### 🔹 Pizza Sales Analysis (SQL)
-- Analyzed transactional sales data to identify revenue drivers.
-- Discovered top-selling products and seasonal trends.
-- Provided business-focused recommendations using SQL queries.
-
----
-
-### 🔹 Cyclistic Bike-Share Analysis (R)
-- Analyzed user behavior across casual and member riders.
-- Designed data-driven membership conversion strategies.
-- Created clear visualizations for stakeholder communication.
+- Analyzed **85,907 records** to identify drivers of refunds, delays, and agent workload.  
+- Provided data-driven recommendations to optimize **agent allocation and customer experience**.
 
 ---
 
