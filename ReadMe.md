@@ -25,9 +25,15 @@ My work spans **large-scale tabular ML**, **NLP & RAG systems**, **computer visi
 
 ---
 
-### 🔹 [Used Car Price Prediction](https://github.com/abhinay12890/Used_Car_Price_Prediction_Regression)
-- Built an **end-to-end regression pipeline** on **425K+ records** with feature engineering and benchmarking.  
-- Reduced prediction error vs baseline using a **scalable, reproducible preprocessing workflow**.
+### 🔹 [Skin Cancer Detection — Medical Imaging with EfficientNet + Grad-CAM](https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0)
+- Built a clinically-aware transfer learning pipeline with leakage-safe grouped splitting, mixed precision training, and threshold tuning, achieving PR-AUC ≈ 0.72 and ROC-AUC ≈ 0.82 on imbalanced data.
+- Deployed an interactive Streamlit app on Hugging Face enabling real-time predictions via file upload and URL inference, enhanced with Grad-CAM explainability for medically relevant visual validation.
+
+---
+
+### 🔹 [Hard-Hat Detection (Edge AI)](https://github.com/abhinay12890/Hard-HAT-Detection)
+- Developed a **real-time computer vision safety system** for helmet detection.  
+- Deployed on **Arduino Nicla Vision** using Edge Impulse for robust edge inference.
 
 ---
 
@@ -36,17 +42,9 @@ My work spans **large-scale tabular ML**, **NLP & RAG systems**, **computer visi
 - Improved contextual relevance compared to traditional collaborative filtering.
 
 ---
-
-### 🔹 [Customer Churn Prediction](https://github.com/abhinay12890/Telco_Customer_Churn_Prediction)
-- Trained churn prediction models on imbalanced data with **recall- and ROC-AUC–focused evaluation**.  
-- Enabled targeted retention strategies by identifying high-risk customers.
-
----
-
-### 🔹 [Hard-Hat Detection (Edge AI)](https://github.com/abhinay12890/Hard-HAT-Detection)
-- Developed a **real-time computer vision safety system** for helmet detection.  
-- Deployed on **Arduino Nicla Vision** using Edge Impulse for robust edge inference.
-
+### 🔹 [Used Car Price Prediction](https://github.com/abhinay12890/Used_Car_Price_Prediction_Regression)
+- Built an **end-to-end regression pipeline** on **425K+ records** with feature engineering and benchmarking.  
+- Reduced prediction error vs baseline using a **scalable, reproducible preprocessing workflow**.
 ---
 
 ## 📊 Data Analytics Experience
