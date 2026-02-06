@@ -25,7 +25,7 @@ My work spans **large-scale tabular ML**, **NLP & RAG systems**, **computer visi
 
 ---
 
-### 🔹 [Skin Cancer Detection — Medical Imaging with EfficientNet + Grad-CAM](https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0)
+### 🔹 [Skin Cancer Detection (Medical Imaging with EfficientNet + Grad-CAM)](https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0)
 - Built a clinically-aware transfer learning pipeline with leakage-safe grouped splitting, mixed precision training, and threshold tuning, achieving PR-AUC ≈ 0.72 and ROC-AUC ≈ 0.82 on imbalanced data.
 - Deployed an interactive Streamlit app on Hugging Face enabling real-time predictions via file upload and URL inference, enhanced with Grad-CAM explainability for medically relevant visual validation.
 
