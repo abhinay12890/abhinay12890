@@ -1,89 +1,125 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="35" /> `KALAVAKURI ABHINAY` 
-### DATA SCIENTIST | AI/ML & NLP | MLOPS ENGINEER
-  
-[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-00d4ff?style=for-the-badge&logo=codepen&logoColor=black)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-ff0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalavakuri-abhinay)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0c&height=180&section=header&text=KALAVAKURI%20ABHINAY&fontSize=60&fontAlignY=45&animation=fadeIn&fontColor=00D4FF&desc=DATA%20SCIENTIST%20•%20IIT%20BHILAI%20%2724&descAlignY=65&descSize=20" width="100%" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=codepen&logoColor=0a0a0c)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-FF0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalavakuri-abhinay)
+[![Email](https://img.shields.io/badge/CONTACT-FFD60A?style=for-the-badge&logo=gmail&logoColor=0a0a0c)](mailto:YOUR_EMAIL)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhinay12890&color=00D4FF&style=flat-square&label=SYSTEM_ACCESS_LOGS)
 
 </div>
 
-<p align="right">
-<img src="https://img.shields.io/badge/STATUS-SYSTEM_ACTIVE-ffd60a?style=flat-square&logo=git&logoColor=black" />
-</p>
+---
+
+## 🔬 CORE_ARCHITECTURE.md
+
+**I am a Data Scientist from IIT Bhilai** with a background in building end-to-end Machine Learning systems. I specialize in bridging the gap between raw data and **production-ready intelligence**, with a strong focus on model reliability, explainability, and real-world impact.
+
+<div align="center">
+
+| 🧠 INTELLIGENCE | ⚙️ OPERATIONS | 🤖 GEN-AI & NLP |
+| :--- | :--- | :--- |
+| `PyTorch` • `TensorFlow` | `AWS` • `Docker` | `LangChain` • `FAISS` |
+| `Scikit-Learn` • `Keras` | `MLflow` • `FastAPI` | `Transformers` • `RAG` |
+| `LightGBM` • `SHAP` | `Flask` • `CI/CD` | `HuggingFace` • `TF-IDF` |
+
+</div>
 
 ---
 
-## 💫 THE BLUEPRINT (About Me)
-<p align="left">
-I’m <b>Kalavakuri Abhinay</b>, a <b>Data Scientist from IIT Bhilai</b>. I specialize in building <b>end-to-end ML systems</b>; from raw data and RAG pipelines to robust evaluation and AWS deployment. My work bridges the gap between raw code and <b>real-world impact</b>.
-</p>
-
----
-
-## 🚀 FEATURED MISSIONS (Projects)
+## 🏗️ PRODUCTION_DEPLOYMENTS (Project Cards)
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/abhinay12890/factoryguard-ai">FACTORYGUARD AI</a></h3>
-      <p><i>NASA C-MAPSS | Predictive Maintenance</i></p>
-      <img src="https://img.shields.io/badge/PR--AUC-0.94-00d4ff?style=flat-square" />
-      <p>Predicted component failure 24h in advance with ~1.4ms inference latency.</p>
+      <div align="left">
+        <h3>🏭 FACTORYGUARD AI</h3>
+        <p><i>Predictive Maintenance | NASA C-MAPSS</i></p>
+        <img src="https://img.shields.io/badge/Latency-1.4ms-00D4FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/PR--AUC-0.94-FF0055?style=flat-square" />
+        <p>Predicted failure 24h in advance using Flask. Featured business-aligned risk thresholds for deployment.</p>
+        <a href="https://github.com/abhinay12890/factoryguard-ai"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0">SKIN CANCER DETECTION</a></h3>
-      <p><i>Medical Imaging | EfficientNet + Grad-CAM</i></p>
-      <img src="https://img.shields.io/badge/DEPLOYED-HUGGING_FACE-ff0055?style=flat-square" />
-      <p>Interactive diagnostic app featuring Grad-CAM explainability for visual validation.</p>
+      <div align="left">
+        <h3>🔬 SKIN CANCER CLASSIFIER</h3>
+        <p><i>Explainable Computer Vision (XAI)</i></p>
+        <img src="https://img.shields.io/badge/Status-Live-FF0055?style=flat-square" />
+        <img src="https://img.shields.io/badge/Arch-EfficientNet-ffd60a?style=flat-square" />
+        <p>Clinically-aware transfer learning pipeline with Grad-CAM heatmaps for visual diagnostic validation.</p>
+        <a href="https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/abhinay12890/MovieLens-RAG-Recommendation-System">MOVIELENS RAG</a></h3>
-      <p><i>NLP | FAISS | Vector Search</i></p>
-      <img src="https://img.shields.io/badge/TECH-RAG_SYSTEM-ffd60a?style=flat-square" />
-      <p>Context-aware recommendation system outperforming traditional collaborative filtering.</p>
+      <div align="left">
+        <h3>🎬 MOVIELENS RAG</h3>
+        <p><i>Gen-AI Recommendation Engine</i></p>
+        <img src="https://img.shields.io/badge/Engine-RAG-ffd60a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Search-FAISS-00D4FF?style=flat-square" />
+        <p>Context-aware recommender system using embeddings and FAISS vector search for superior relevance.</p>
+        <a href="https://github.com/abhinay12890/MovieLens-RAG-Recommendation-System"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 <a href="https://github.com/abhinay12890/Hard-HAT-Detection">HARD-HAT DETECTION</a></h3>
-      <p><i>Edge AI | Computer Vision</i></p>
-      <img src="https://img.shields.io/badge/HARDWARE-ARDUINO_NICLA-00d4ff?style=flat-square" />
-      <p>Real-time safety monitoring deployed on edge devices via Edge Impulse.</p>
+      <div align="left">
+        <h3>👷 HARD-HAT DETECTION</h3>
+        <p><i>Edge AI | Safety Monitoring</i></p>
+        <img src="https://img.shields.io/badge/Hardware-Arduino-00D4FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Edge-TFLite-FF0055?style=flat-square" />
+        <p>Real-time computer vision system deployed on Arduino Nicla Vision via Edge Impulse for safety monitoring.</p>
+        <a href="https://github.com/abhinay12890/Hard-HAT-Detection"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🚗 USED CAR PRICE PREDICTION</h3>
+        <p><i>Scalable Regression Pipeline</i></p>
+        <img src="https://img.shields.io/badge/Data-425K%2B-ffd60a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Pipeline-00D4FF?style=flat-square" />
+        <p>End-to-end regression workflow with extensive feature engineering on large-scale tabular data.</p>
+        <a href="https://github.com/abhinay12890/Used_Car_Price_Prediction_Regression"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>📊 BUSINESS DATA ANALYTICS</h3>
+        <p><i>Insight Generation @ Labmentix</i></p>
+        <img src="https://img.shields.io/badge/Tool-SQL/Python-00D4FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Impact-Actionable-FF0055?style=flat-square" />
+        <p>Delivered KPI analysis and actionable insights on 85k+ records for Flipkart support optimization.</p>
+        <a href="https://github.com/abhinay12890/Data-Analyst-Internship"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 TECH STACK (The Multiverse)
-
-### 🧠 CORE ML & DEEP LEARNING
-![Python](https://img.shields.io/badge/python-00d4ff?style=for-the-badge&logo=python&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-ff0055?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ffd60a?style=for-the-badge&logo=TensorFlow&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/Sklearn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=black)
-
-### ⚙️ DEPLOYMENT & MLOPS
-![MLflow](https://img.shields.io/badge/MLflow-00d4ff?style=for-the-badge&logo=mlflow&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-ff0055?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-ffd60a?style=for-the-badge&logo=fastapi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📊 ANALYTICS DATA-STREAM
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinay12890&show_icons=true&theme=tokyonight&border_color=ff0055&title_color=00d4ff&icon_color=ffd60a" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay12890&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=ff0055" height="170" />
-</div>
+## 📈 ANALYTICS_FLUX
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhinay12890&theme=tokyonight&border_color=ff0055&stroke=00d4ff&ring=ffd60a&fire=ff0055" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinay12890&show_icons=true&theme=tokyonight&border_color=FF0055&title_color=00D4FF&icon_color=FFD60A&text_color=FFFFFF&bg_color=0a0a0c"/>
+  <img src="https://streak-stats.demolab.com?user=abhinay12890&theme=tokyonight&hide_border=true&ring=00D4FF&fire=FF0055&currStreakLabel=FFD60A" height="180em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay12890&theme=tokyonight&border_color=00D4FF&title_color=FF0055&text_color=FFFFFF&bg_color=0a0a0c&layout=compact"/>
 </div>
 
 ---
-<p align="center">
-  <i>"With great data comes great responsibility."</i><br>
-  <b>IIT Bhilai Class of 2024</b>
-</p>
+
+<div align="center">
+
+**// TRANSFORMING LATENT DATA INTO PRODUCTION REALITY //**
+*Engineered by Abhinay Kalavakuri • IIT Bhilai '24*
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=14&duration=4000&pause=1000&color=666666&center=true&vCenter=true&width=400&height=30&lines=System+Online+•+Ready+to+Deploy" />
+
+</div>
