@@ -32,6 +32,76 @@
 
 ---
 
+## 🏗️ PRODUCTION_DEPLOYMENTS (Project Cards)
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🏭 FACTORYGUARD AI</h3>
+        <p><i>Predictive Maintenance | NASA C-MAPSS</i></p>
+        <img src="https://img.shields.io/badge/Latency-1.4ms-00D4FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/PR--AUC-0.94-FF0055?style=flat-square" />
+        <p>Predicted failure 24h in advance using Flask. Featured business-aligned risk thresholds for deployment.</p>
+        <a href="https://github.com/abhinay12890/factoryguard-ai"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🔬 SKIN CANCER CLASSIFIER</h3>
+        <p><i>Explainable Computer Vision (XAI)</i></p>
+        <img src="https://img.shields.io/badge/Status-Live-FF0055?style=flat-square" />
+        <img src="https://img.shields.io/badge/Arch-EfficientNet-ffd60a?style=flat-square" />
+        <p>Clinically-aware transfer learning pipeline with Grad-CAM heatmaps for visual diagnostic validation.</p>
+        <a href="https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🎬 MOVIELENS RAG</h3>
+        <p><i>Gen-AI Recommendation Engine</i></p>
+        <img src="https://img.shields.io/badge/Engine-RAG-ffd60a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Search-FAISS-00D4FF?style=flat-square" />
+        <p>Context-aware recommender system using embeddings and FAISS vector search for superior relevance.</p>
+        <a href="https://github.com/abhinay12890/MovieLens-RAG-Recommendation-System"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>👷 HARD-HAT DETECTION</h3>
+        <p><i>Edge AI | Safety Monitoring</i></p>
+        <img src="https://img.shields.io/badge/Hardware-Arduino-00D4FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Edge-TFLite-FF0055?style=flat-square" />
+        <p>Real-time computer vision system deployed on Arduino Nicla Vision via Edge Impulse for safety monitoring.</p>
+        <a href="https://github.com/abhinay12890/Hard-HAT-Detection"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🚗 USED CAR PRICE PREDICTION</h3>
+        <p><i>Scalable Regression Pipeline</i></p>
+        <img src="https://img.shields.io/badge/Data-425K%2B-ffd60a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Pipeline-00D4FF?style=flat-square" />
+        <p>End-to-end regression workflow with extensive feature engineering on large-scale tabular data.</p>
+        <a href="https://github.com/abhinay12890/Used_Car_Price_Prediction_Regression"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>📊 BUSINESS DATA ANALYTICS</h3>
+        <p><i>Insight Generation @ Labmentix</i></p>
+        <img src="https://img.shields.io/badge/Tool-SQL/Python-00D4FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Impact-Actionable-FF0055?style=flat-square" />
+        <p>Delivered KPI analysis and actionable insights on 85k+ records for Flipkart support optimization.</p>
+        <a href="https://github.com/abhinay12890/Data-Analyst-Internship"><b>[ VIEW REPOSITORY ]</b></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
