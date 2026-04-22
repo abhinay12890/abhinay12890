@@ -76,7 +76,7 @@ I build production-grade Machine Learning and RAG systems across NLP, vision, an
         <img src="https://img.shields.io/badge/PR--AUC-Optimized-00D4FF?style=flat-square" />
         <img src="https://img.shields.io/badge/F1--Score-0.44-FF0055?style=flat-square" />
         <p>Engineered an end-to-end MLOps pipeline to predict manufacturing failures from high-dimensional sensor data. Features MLflow tracking and a FastAPI service containerized with Docker for AWS EC2 deployment.</p>
-        <a href="https://github.com/abhinay12890/SECOM-Failure-Classification"><b>[ CODE_REPOSITORY ]</b></a>
+        <a href="https://github.com/abhinay12890/Secom_Failure_Classification"><b>[ CODE_REPOSITORY ]</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +99,7 @@ I build production-grade Machine Learning and RAG systems across NLP, vision, an
         <img src="https://img.shields.io/badge/Status-Live-FF0055?style=flat-square" />
         <img src="https://img.shields.io/badge/Arch-EfficientNet-ffd60a?style=flat-square" />
         <p>Built a clinically-aware transfer learning pipeline using EfficientNet. Integrated Grad-CAM heatmaps to provide visual diagnostic validation and interpretability for medical image classification.</p>
-        <a href="https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0"><b>[ CODE_REPOSITORY ]</b></a>
+        <a href="https://github.com/abhinay12890/Skin_Cancer_Detection_using_EfficientNetB0><b>[ CODE_REPOSITORY ]</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -122,7 +122,7 @@ I build production-grade Machine Learning and RAG systems across NLP, vision, an
         <img src="https://img.shields.io/badge/Engine-RAG-ffd60a?style=flat-square" />
         <img src="https://img.shields.io/badge/Search-FAISS-00D4FF?style=flat-square" />
         <p>Built a high-performance recommendation engine on 70k+ movies, utilizing a dual-stage pipeline: FAISS-based semantic retrieval followed by Gemini-2.5-Flash reranking. Features a custom regex-based NLP cleaning pipeline and rigorous offline evaluation.</p>
-        <a href="https://github.com/abhinay12890/MovieLens-RAG-Recommendation-System"><b>[ CODE_REPOSITORY ]</b></a>
+        <a href="https://github.com/abhinay12890/MovieLens-RAG-Recommendation-System><b>[ CODE_REPOSITORY ]</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -132,7 +132,7 @@ I build production-grade Machine Learning and RAG systems across NLP, vision, an
         <img src="https://img.shields.io/badge/Data-425K%2B-ffd60a?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-Pipeline-00D4FF?style=flat-square" />
         <p>Developed a robust predictive system for estimating vehicle resale values using a dataset of 425k+ listings. Executed a complete ML pipeline featuring automated outlier detection via IQR, statistical feature selection using OLS p-values, and advanced ensemble modeling.</p>
-        <a href="https://github.com/abhinay12890/Used_Car_Price_Prediction_Regression"><b>[ CODE_REPOSITORY ]</b></a>
+        <a href="https://github.com/abhinay12890/Used_Car_Price_Prediction_Regression><b>[ CODE_REPOSITORY ]</b></a>
       </div>
     </td>
   </tr>
