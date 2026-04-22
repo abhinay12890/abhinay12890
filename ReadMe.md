@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=codepen&logoColor=0a0a0c)](YOUR_PORTFOLIO_URL)
+<!--[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D4FF?style=for-the-badge&logo=codepen&logoColor=0a0a0c)](YOUR_PORTFOLIO_URL) -->
 [![LinkedIn](https://img.shields.io/badge/CONNECT-FF0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalavakuri-abhinay)
-[![Email](https://img.shields.io/badge/CONTACT-FFD60A?style=for-the-badge&logo=gmail&logoColor=0a0a0c)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/CONTACT-FFD60A?style=for-the-badge&logo=gmail&logoColor=0a0a0c)](mailto:kalavakuriabhinay@iitbhilai.ac.in)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## ABOUT ME
 
-**I am a Data Scientist from IIT Bhilai** with a background in building end-to-end Machine Learning systems. I specialize in bridging the gap between raw data and **production-ready intelligence**, with a strong focus on model reliability, explainability, and real-world impact.
+I build production-grade Machine Learning and RAG systems across NLP, vision, and structured data — focusing on imbalanced learning, retrieval pipelines, and scalable MLOps on AWS.
 
 ---
 ## SKILLS
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FF9900?style=flat-square&logo=huggingface&logoColor=white" />
 </p>
 
 ### 🚀 MLOps & Cloud Deployment
@@ -64,7 +65,7 @@
 
 ---
 
-## PROJECT CARDS
+## PRODUCTION ML SYSTEMS
 
 <table border="0">
   <tr>
