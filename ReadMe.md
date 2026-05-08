@@ -81,12 +81,13 @@ I build production-grade Machine Learning and RAG systems across NLP, vision, an
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>🏭 FACTORYGUARD AI</h3>
-        <p><i>Predictive Maintenance | NASA C-MAPSS</i></p>
-        <img src="https://img.shields.io/badge/Latency-1.4ms-00D4FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/PR--AUC-0.94-FF0055?style=flat-square" />
-        <p>Developed a LightGBM system to forecast turbofan engine failures within a 24-hour window. Achieved 0.93 PR-AUC using temporal feature engineering, SHAP for explainability, and a dual-service Flask deployment for API and UI.</p>
-        <a href="https://github.com/abhinay12890/factoryguard-ai"><b>[ CODE_REPOSITORY ]</b></a>
+        <h3>📄 Agentic Document Intelligence System</h3>
+        <p><i>Agentic RAG</i></p>
+        <img src="https://img.shields.io/badge/Workflow-LangGraph-ffd60a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Search-FAISS-00D4FF?style=flat-square" />
+        <p>Built an agentic document QA system using LangGraph, FAISS, and Gemini 2.5 Flash with a multi-node retrieval-validation-generation workflow for grounded long-document reasoning.
+      Implemented dynamic similarity-threshold retrieval, evidence-aware response generation, and Unstructured-based PDF ingestion with semantic chunking for robust contextual answering.</p>
+        <a href="https://github.com/abhinay12890/Agentic-Document-Intelligence-System"><b>[ CODE_REPOSITORY ]</b></a>
       </div>
     </td>
   </tr>
@@ -117,12 +118,12 @@ I build production-grade Machine Learning and RAG systems across NLP, vision, an
   <tr>
     <td width="50%" valign="top">
       <div align="left">
-        <h3>🎬 MOVIELENS RAG</h3>
-        <p><i>Gen-AI Recommendation Engine</i></p>
-        <img src="https://img.shields.io/badge/Engine-RAG-ffd60a?style=flat-square" />
-        <img src="https://img.shields.io/badge/Search-FAISS-00D4FF?style=flat-square" />
-        <p>Built a high-performance recommendation engine on 70k+ movies, utilizing a dual-stage pipeline: FAISS-based semantic retrieval followed by Gemini-2.5-Flash reranking. Features a custom regex-based NLP cleaning pipeline and rigorous offline evaluation.</p>
-        <a href="https://github.com/abhinay12890/MovieLens-RAG-Recommendation-System"><b>[ CODE_REPOSITORY ]</b></a>
+        <h3>🏭 FACTORYGUARD AI</h3>
+        <p><i>Predictive Maintenance | NASA C-MAPSS</i></p>
+        <img src="https://img.shields.io/badge/Latency-1.4ms-00D4FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/PR--AUC-0.94-FF0055?style=flat-square" />
+        <p>Developed a LightGBM system to forecast turbofan engine failures within a 24-hour window. Achieved 0.93 PR-AUC using temporal feature engineering, SHAP for explainability, and a dual-service Flask deployment for API and UI.</p>
+        <a href="https://github.com/abhinay12890/factoryguard-ai"><b>[ CODE_REPOSITORY ]</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
