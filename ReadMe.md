@@ -18,7 +18,7 @@
 
 ## ABOUT ME
 
-I build production-grade Machine Learning and RAG systems across NLP, vision, and structured data — focusing on imbalanced learning, retrieval pipelines, and scalable MLOps on AWS.
+Indian Institute of Technology Bhilai graduate interested in imbalanced ML systems, NLP, and Agentic RAG pipelines. Building end-to-end ML projects using Python, FastAPI, Docker, AWS, and modern LLM frameworks.
 
 ---
 ## SKILLS
